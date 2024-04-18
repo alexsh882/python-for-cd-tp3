@@ -16,8 +16,7 @@ Posee una función llamada “analisis_estadistico” que acepta como parámetro
 - pi: Probabilidad, que se obtiene dividiendo la frecuencia absoluta de cada valor entre el tamaño total de la muestra.
 - Pi: Probabilidad acumulada, la suma acumulada de las probabilidades. 
 
-Devolviendo un DataFrame que contiene estas columnas como claves y las listas
-correspondientes como valores asociados.
+Devolviendo un DataFrame que contiene estas columnas como claves y las listas correspondientes como valores asociados.
 
 ## Sobre el proyecto
 
@@ -28,8 +27,6 @@ Realizado con `python` y utilizando la librería `pandas`, el cual genera un an�
 
 
 ### Requerimientos
-
-- Archivo `edades-30Alumnos.csv` el cual se debe estar en la carpeta assets.
 
 - Instalación de virtual env
 
